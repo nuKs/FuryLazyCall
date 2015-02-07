@@ -1,0 +1,29 @@
+{
+  "name": "FuryLazyCall",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nuKs/FuryLazyCall",
+  "authors": [
+    "Thibault PIRONT <gse.nuks@gmail.com>"
+  ],
+  "description": "Queue function calls until execution",
+  "main": "dist/FuryLazyCall.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "functional",
+    "lazy",
+    "call",
+    "queue"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
